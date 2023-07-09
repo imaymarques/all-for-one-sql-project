@@ -21,3 +21,30 @@ As instruções de cada tarefa foram fornecidas, e eu escrevi as consultas SQL n
 O projeto All For One foi uma oportunidade valiosa para aplicar meus conhecimentos de SQL em um cenário prático. Revisei as instruções e requisitos de cada tarefa com cuidado e testei minhas consultas antes de submetê-las.
 
 Durante o projeto, tive algumas dúvidas, mas consegui superá-las buscando recursos adicionais, como tirando dúvidas com monitores e colegas de curso. Acredito que a prática é fundamental para o aprendizado em SQL.
+
+
+________________________________________________________________________________________________________________________________________________________________
+
+# All For One - SQL Practice Project
+
+Hello! In this project, called All For One, I had the opportunity to practice all the SQL concepts taught so far. It was a great chance to apply my knowledge in a realistic scenario, using the Northwind database.
+
+## Project Description
+
+The main objective of All For One was to apply the SQL concepts I have learned so far in a practical manner. To accomplish this, I utilized the Northwind database, which contains information about a fictional trading company.
+
+## Northwind Database
+
+The Northwind database is widely known in the educational and SQL training environment. It comprises several tables related to customers, products, suppliers, orders, and other relevant aspects of a trading company.
+
+## Project Instructions
+
+In the All For One project, I was challenged to perform a series of tasks and SQL queries based on the needs of the fictional company, Northwind. Through these queries, I needed to extract relevant information from the tables, perform data joins, apply filters, and more.
+
+The instructions for each task were provided, and I wrote the necessary SQL queries to obtain the expected results.
+
+## Final Thoughts
+
+The All For One project provided a valuable opportunity to apply my SQL knowledge in a practical setting. I carefully reviewed the instructions and requirements for each task and tested my queries before submitting them.
+
+Throughout the project, I encountered some doubts, but I managed to overcome them by seeking additional resources, such as seeking clarification from instructors and discussing with classmates. I believe that practice is crucial for learning SQL.
